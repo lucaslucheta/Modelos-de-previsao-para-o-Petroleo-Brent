@@ -51,9 +51,9 @@ para o petróleo bruto ICE Brent (BZ=F).
 --------------------------------------------------------------------------------
 2. ESTRUTURA DO REPOSITÓRIO
 --------------------------------------------------------------------------------
-├── app.py              # Código principal da aplicação Streamlit e modelos quantitativos
-├── requirements.txt    # Dependências Python necessárias para execução
-└── readme.txt          # Documentação do projeto
+── app.py              # Código principal da aplicação Streamlit e modelos quantitativos
+── requirements.txt    # Dependências Python necessárias para execução
+── readme.txt          # Documentação do projeto
 
 --------------------------------------------------------------------------------
 3. COMO INSTALAR E EXECUTAR LOCALMENTE
@@ -78,6 +78,8 @@ Passo 4 — Inicie o terminal quantitativo:
     streamlit run app.py
 
 O aplicativo será aberto automaticamente no navegador em http://localhost:8501.
+
+Também é possível executar pelo link: https://modelos-de-previsao-para-o-petroleo-brent.streamlit.app/
 
 ---
 
