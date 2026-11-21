@@ -1,7 +1,7 @@
 """
-================================================================================
+
 BRENT QUANT TERMINAL — MODELAGEM ECONOMÉTRICA E PREVISÃO INSTITUCIONAL (BZ=F)
-================================================================================
+
 Instalação das dependências:
     pip install streamlit yfinance pandas numpy scikit-learn plotly
 
