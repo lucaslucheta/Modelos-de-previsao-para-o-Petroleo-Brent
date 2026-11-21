@@ -1,6 +1,5 @@
-================================================================================
+
 BRENT QUANT TERMINAL — MODELAGEM ECONOMÉTRICA E PREVISÃO INSTITUCIONAL (BZ=F)
-================================================================================
 
 Aplicação interativa desenvolvida em Python e Streamlit para análise quantitativa,
 previsão econométrica, backtesting out-of-sample e simulação de hedge corporativo
