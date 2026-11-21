@@ -88,4 +88,4 @@ Este projeto foi concebido, estruturado e validado por Lucas Reis Lucheta. Duran
 👨‍💻 AUTOR
 Desenvolvido por Lucas Reis Lucheta
 Estudante de Engenharia Química | EEL-USP
-LinkedIn | GitHub
+[LinkedIn](https://www.linkedin.com/in/lucas-reis-lucheta/)| [GitHub](https://github.com/lucaslucheta)
